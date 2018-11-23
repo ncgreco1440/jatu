@@ -1,0 +1,10 @@
+*.sublime-workspace
+*.sublime-project
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.gif
+*.svg
